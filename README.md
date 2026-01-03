@@ -1,124 +1,34 @@
-# 👋 Hola, soy Reyving Ramirez
+<!-- Animación de saludo -->
+<h1 align="center">👋 Hola, soy Reyving Ramirez</h1>
 
-🎓 Aprendiz en **Análisis y Desarrollo de Software**  
-💻 **Desarrollador Fullstack en formación**, con énfasis en **Back-End**  
-📍 Huila, Colombia  
+<p align="center">
+🎓 Aprendiz en <b>Análisis y Desarrollo de Software</b> <br>
+💻 <b>Desarrollador Fullstack en formación</b> (énfasis Back-End) <br>
+📍 Huila, Colombia
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabriany-medina-9305732b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin">
+  </a>
+  <img src="https://img.shields.io/badge/Contacto-3214875998-green?style=flat&logo=whatsapp">
+</p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy estudiante de Tecnología en **Análisis y Desarrollo de Software** en el SENA, certificado como Técnico en el mismo campo.  
-He participado en **proyectos académicos y reales**, donde he fortalecido mis habilidades en desarrollo backend, bases de datos y trabajo en equipo.
+👨‍💻 **Técnico en Análisis y Desarrollo de Software**, con formación introductoria en el mundo del desarrollo.  
+Cuento con conocimientos básicos en **HTML, CSS, PHP, MySQL y Bootstrap**, así como fundamentos de **Programación Orientada a Objetos (POO)**.
 
-Me caracterizo por el **pensamiento lógico**, la **aplicación de buenas prácticas**, la **resolución de problemas** y el **aprendizaje continuo**.  
-Actualmente busco seguir creciendo como desarrollador y aportar valor en proyectos reales.
+📌 He participado en **proyectos académicos y reales**, lo que me permitió fortalecer mi lógica de programación, el manejo de bases de datos y la construcción de aplicaciones web sencillas.
+
+✨ Me caracterizo por mi **aprendizaje constante**, pensamiento lógico y motivación por seguir creciendo como desarrollador y aportar valor en proyectos reales.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 ### 🔹 Lenguajes de programación
-- JavaScript  
-- Python  
-- Java (POO)  
-- C#  
-- SQL (MySQL, PostgreSQL)
-
-### 🔹 Frameworks y librerías
-- Django  
-- .NET  
-- Bootstrap  
-- Tailwind CSS  
-
-### 🔹 Bases de datos
-- MySQL  
-- PostgreSQL  
-- Diseño MER  
-- Normalización  
-
-### 🔹 Herramientas
-- Git & GitHub  
-- Docker (básico)  
-- Visual Studio Code  
-- Postman  
-- phpMyAdmin  
-- Linux (básico)
-
----
-
-## 📂 Proyectos destacados
-
-### 🧩 Sistema de Autogestión SENA
-**Rol:** Desarrollador Fullstack (énfasis Back-End)  
-**Tecnologías:** Python, Django, React (TypeScript), Tailwind, MySQL  
-
-**Descripción:**  
-Plataforma académica para la asignación de instructores a aprendices en etapa productiva.
-
-**Aportes:**
-- Desarrollo de módulos backend en Django  
-- Integración de API REST con frontend en React  
-- Modelado y administración de base de datos  
-- Trabajo colaborativo usando Git  
-
----
-
-### 🍦 Sitio Web Heladería Polar
-**Rol:** Desarrollador Web  
-**Tecnologías:** PHP, MySQL, Bootstrap  
-
-**Descripción:**  
-Sistema web con catálogo de productos, carrito básico y formulario de contacto.
-
-**Aportes:**
-- Desarrollo del frontend con Bootstrap  
-- Funcionalidades backend en PHP  
-- Gestión de datos en MySQL  
-
----
-
-### 🎲 BingoSauro – Sistema Web de Bingo
-**Rol:** Desarrollador Fullstack  
-**Tecnologías:** PHP, MySQL, JavaScript, HTML, Bootstrap  
-
-**Descripción:**  
-Plataforma web de bingo con registro, login, selección de cartones y recompensas.
-
-**Aportes:**
-- Lógica backend en PHP  
-- Diseño de interfaz web  
-- Gestión de usuarios, cartones y premios  
-- Funcionalidades dinámicas con JavaScript  
-
----
-
-## 📚 Formación
-
-- **Tecnólogo en Análisis y Desarrollo de Software** – SENA (En curso)  
-- **Técnico en Análisis y Desarrollo de Software** – SENA  
-- **Fundamentos de Linux** – Cisco Networking Academy  
-- **Programación Básica** – Platzi  
-- **Alfabetización Informática** – SENA  
-
----
-
-## 🤝 Competencias blandas
-
-- Trabajo en equipo  
-- Comunicación asertiva  
-- Adaptabilidad  
-- Pensamiento lógico  
-- Aprendizaje rápido  
-- Atención al detalle  
-
----
-
-## 📫 Contacto
-
-- 📧 Email: medinafabriany@gmail.com  
-- 📍 Ubicación: Huila, Colombia  
-
----
-
-⭐ *Siempre abierto a aprender, mejorar y colaborar en nuevos proyectos.*
+```text
+JavaScript | Python | Java (POO) | C# | SQL
