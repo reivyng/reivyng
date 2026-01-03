@@ -29,7 +29,7 @@ Soy **Técnico en Análisis y Desarrollo de Software** y estudiante del **Tecnó
 
 Inicié mi proceso con una **introducción al desarrollo de software**, trabajando con tecnologías base como **HTML, CSS, PHP, MySQL y Bootstrap**, y fortaleciendo fundamentos clave como la **lógica de programación** y la **Programación Orientada a Objetos (POO)**.
 
-Posteriormente, he participado en **proyectos académicos y proyectos reales**, donde he ampliado mis conocimientos hacia el desarrollo **Fullstack con énfasis en Back-End**, utilizando tecnologías como **Python, Django, JavaScript, Java, bases de datos relacionales**, así como herramientas de control de versiones y trabajo colaborativo.
+Posteriormente, he participado en **proyectos académicos y proyectos reales**, donde he ampliado mis conocimientos hacia el desarrollo **Fullstack con énfasis en Back-End**, utilizando tecnologías como **Python, Django, C#, .NET, JavaScript, Java, Java Spring Boot, bases de datos relacionales**, así como herramientas de control de versiones y trabajo colaborativo.
 
 Me caracterizo por mi **pensamiento lógico**, **aprendizaje continuo**, aplicación de **buenas prácticas de programación** y una alta motivación por seguir creciendo profesionalmente en el área del desarrollo de software.
 
@@ -37,6 +37,30 @@ Me caracterizo por mi **pensamiento lógico**, **aprendizaje continuo**, aplicac
 
 ## 🛠️ Tecnologías y herramientas
 
-### 🔹 Lenguajes de programación
+### 🔹 Lenguajes de programación Back-end
 ```text
-JavaScript · Python · Java (POO) · C# · SQL
+Python · C# · Java (POO) · SQL
+
+```
+### 🔹 Lenguajes de programación Front-end
+```text
+HTML · React · Css · TypeScript · JavaScript 
+
+```
+### 🔹 Bases de datos
+```text
+MySQL · PostgreSQL · Diseño MER · Normalización
+
+```
+### 🔹 Frameworks y librerías
+```text
+Django · .NET · Bootstrap · Tailwind CSS
+
+```
+### 🔹 Herramientas y entornos
+```text
+Git & GitHub · Docker (básico) · Visual Studio Code · Visual Studio Community 2022  · Postman · phpMyAdmin · Linux (básico)
+
+
+
+
